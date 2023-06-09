@@ -1,5 +1,5 @@
 {
-  "api/get-supplies/": [
+  "post": [
       {
         "id": "44834386A",
         "title": {
