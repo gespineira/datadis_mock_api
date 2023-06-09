@@ -1,8 +1,8 @@
 {
-  "post": [
+  "get-supplies": [
       {
-        "id": "44834386A",
-        "title": {
+        "authorizedNif": "44834386A",
+        "body": {
                   "address" : " ROSALIA DE CASTRO 0029  06 IZ",
                   "cups" : "ES0022000004311733RW1P",
                   "postalCode" : "15701",
