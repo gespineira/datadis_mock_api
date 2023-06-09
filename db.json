@@ -3,38 +3,40 @@
       {
         "authorizedNif": "44834386A",
         "title": {
-        "address" : " ROSALIA DE CASTRO 0029  06 IZ",
-        "cups" : "ES0022000004311733RW1P",
-        "postalCode" : "15701",
-        "province" : "A CORUÑA",
-        "municipality" : "SANTIAGO DE COMPOSTELA-A CORUÑA",
-        "distributor" : "UFD",
-        "validDateFrom" : "1987/03/09",
-        "validDateTo" : "",
-        "pointType" : 4,
-        "distributorCode" : "5"
-      }, {
-        "address" : " MEDITERRANEO 9700  01 J",
-        "cups" : "ES0022000008290378WS1P",
-        "postalCode" : "15623",
-        "province" : "A CORUÑA",
-        "municipality" : "ARES-A CORUÑA",
-        "distributor" : "UFD",
-        "validDateFrom" : "2004/05/04",
-        "validDateTo" : "",
-        "pointType" : 4,
-          "distributorCode" : "5"
-        }, {
-      "address" : " LUIS VIDAL ROCHA 0009  04 J",
-      "cups" : "ES0022000007449793WB1P",
-      "postalCode" : "36960",
-      "province" : "PONTEVEDRA",
-      "municipality" : "SANXENXO-PONTEVEDRA",
-      "distributor" : "UFD",
-      "validDateFrom" : "1993/08/10",
-      "validDateTo" : "",
-      "pointType" : 4,
-      "distributorCode" : "5"
+                 {
+                  "address" : " ROSALIA DE CASTRO 0029  06 IZ",
+                  "cups" : "ES0022000004311733RW1P",
+                  "postalCode" : "15701",
+                  "province" : "A CORUÑA",
+                  "municipality" : "SANTIAGO DE COMPOSTELA-A CORUÑA",
+                  "distributor" : "UFD",
+                  "validDateFrom" : "1987/03/09",
+                  "validDateTo" : "",
+                  "pointType" : 4,
+                  "distributorCode" : "5"
+                }, {
+                  "address" : " MEDITERRANEO 9700  01 J",
+                  "cups" : "ES0022000008290378WS1P",
+                  "postalCode" : "15623",
+                  "province" : "A CORUÑA",
+                  "municipality" : "ARES-A CORUÑA",
+                  "distributor" : "UFD",
+                  "validDateFrom" : "2004/05/04",
+                  "validDateTo" : "",
+                  "pointType" : 4,
+                    "distributorCode" : "5"
+                  }, {
+                "address" : " LUIS VIDAL ROCHA 0009  04 J",
+                "cups" : "ES0022000007449793WB1P",
+                "postalCode" : "36960",
+                "province" : "PONTEVEDRA",
+                "municipality" : "SANXENXO-PONTEVEDRA",
+                "distributor" : "UFD",
+                "validDateFrom" : "1993/08/10",
+                "validDateTo" : "",
+                "pointType" : 4,
+                "distributorCode" : "5"
+              }
     }
     }
   ],
