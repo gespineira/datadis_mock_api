@@ -1,5 +1,5 @@
 {
-  "get-supplies": [
+  "getsupplies": [
       {
         "authorizedNif": "44834386A",
         "body": {
