@@ -1,7 +1,7 @@
 {
   "api/get-supplies/": [
       {
-        "authorizedNif": "44834386A",
+        "id": "44834386A",
         "title": {
                   "address" : " ROSALIA DE CASTRO 0029  06 IZ",
                   "cups" : "ES0022000004311733RW1P",
